@@ -15,7 +15,7 @@ Embark on a journey into the realm of digital entertainment with an interactive 
 
 ### Project veterans
 i) Anindya Biswas  
-ii) Koustub G Rao  
+ii) <a href="https://github.com/KoustubGRao">Koustub G Rao  </a>  
 iii) Raveena Kumari  
 iv) Naman Jain  
 
